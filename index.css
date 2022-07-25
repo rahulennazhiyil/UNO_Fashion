@@ -1,0 +1,61 @@
+@import url('https://fonts.googleapis.com/css2?family=Barlow+Condensed:ital,wght@1,100&family=Dosis:wght@200&family=Raleway:wght@100&display=swap');
+h3 {
+    color: whitesmoke;
+}
+
+.aaaa1 a {
+    color: whitesmoke;
+    text-decoration: none;
+    font-family:  'Barlow Condensed', sans-serif;
+}
+.aaaa1 a:hover{
+    color: white;
+}
+.aaaa1 h3{
+    font-size: 16px;
+    font-family: 'Dosis', sans-serif;
+}
+
+li {
+    padding: 15px;
+}
+.img11{
+    transition: transform 0.2s ease;
+}
+.img11:hover {
+    box-shadow: 1px 8px 20px rgb(248, 244, 244);
+    transform:  scale(1.05);
+}
+.img111{
+    transition: transform 0.2s ease;
+}
+.img111:hover {
+    box-shadow: 1px 8px 16px rgb(248, 244, 244);
+    transform:  scale(1.04);
+}
+.img1111{
+    transition: transform 0.2s ease;
+}
+.img1111:hover {
+    box-shadow: 1px 8px 16px rgb(12, 12, 12);
+    transform:  scale(1.1);
+}
+.zzz1{
+    color: rgb(255, 255, 255);
+    font-family: 'Dosis', sans-serif;
+
+}
+.zzz1:hover{
+    color: rgb(0, 0, 0);
+}
+.vvv1 h1{
+    color: black;
+    font-family: 'Raleway', sans-serif;
+    font-weight: 600;
+}
+.sss1 li a{
+    font-family: 'Raleway', sans-serif;
+    color: black;
+    font-size: larger;
+    font-weight: 800;
+}
